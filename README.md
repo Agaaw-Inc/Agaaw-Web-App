@@ -1,6 +1,7 @@
 <div align="center">
+<img width="100" height="100" alt="Agaaw_logo_noBG" src="https://github.com/user-attachments/assets/e58a0675-b9b3-4399-ac8d-6a5a9c39879a" />
 
-# 🌍 Agaaw
+#  Agaaw
 ### *Fly to Your Future*
 
 **A study-abroad and scholarship platform connecting students with verified peer mentors — real students already studying abroad.**
