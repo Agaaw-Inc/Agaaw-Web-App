@@ -15,7 +15,7 @@
 [![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)](https://stripe.com/)
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 
-[Live Demo](#) · [Report a Bug](#) · [Request a Feature](#)
+[Live Demo](www.agaaw.com)
 
 </div>
 
@@ -115,9 +115,9 @@ At the same time, Agaaw gives students already studying abroad a way to **moneti
 **OmarFarukMaruf** — Founder & Technical Lead, Agaaw
 Building the platform end-to-end: leading architecture decisions, backend/frontend code review, and production deployments, while also driving product content and growth.
 
-- LinkedIn: [_add link_](https://www.linkedin.com/in/omar-faruk-maruf/)
-- Portfolio: [_add link_](https://omarfarukmaruf.github.io/)
-- Email: [ add link ] (omarfaruk.maruff@gmail.com)
+- LinkedIn: [_omar-faruk-maruf_](https://www.linkedin.com/in/omar-faruk-maruf/)
+- Portfolio: https://omarfarukmaruf.github.io
+- Email: omarfaruk.maruff@gmail.com
 
 ---
 
